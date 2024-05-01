@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Ana 👋🏽👩‍💻</h1>
 
-<img src="BannerGithubProfile.png" alt="Banner that says Ana Valero - Software engineer & full-stack developer"/>
+<img src="ProfileBanner.png" alt="Banner that says Ana Valero - Software engineer & full-stack developer"/>
 
 ###
 

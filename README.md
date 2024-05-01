@@ -12,7 +12,7 @@ I'm a software engineer who is passionate about making programming notes more ac
 - 💬 &nbsp;Ask me about anything related to Javascript/React/Python or Java/Spring
 - 👨‍💻 &nbsp;Read about my university notes at [wuolah](https://wuolah.com/profile/anavalero5?referral=anao52) or [studocu](https://www.studocu.com/es/user/31431423?origin=user-menu)
 - 📚 &nbsp;Read about my learing notes at [learningNotes](https://github.com/anavagi/LearningNotes) project
-- ⚡ &nbsp;Fun fact: I :heart: reading and posting on my blog [Inolvidableslecturas](https://inolvidableslecturas.blogspot.com/)
+- ⚡ &nbsp;Fun fact: I :heart: reading and posting on my blog [Eldiariosablelotodo](https://eldiariosablelotodo.blogspot.com/)
 
 
 <div align="center"> 

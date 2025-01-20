@@ -5,7 +5,7 @@
 
 ###
 
-I'm a software engineer who is passionate about making programming notes more accesible for Spanish people, creating projects, and building community. Some technologies I enjoy working with include *Java, SpringBoot, React (Javascript and typescript) and SQL*. I recently worked as *project manager* of a full-stack project. My interest in technology led me to launch ana.code, a community for developers and people interested in study tips.
+I'm a software engineer who is passionate about making programming notes more accesible for Spanish people, creating projects, and building community. Some technologies I enjoy working with include *Java, SpringBoot, React (Javascript and typescript) and SQL*. I recently worked as *project manager* of a full-stack project.
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Azure, AWS

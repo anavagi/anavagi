@@ -5,10 +5,17 @@
 
 ###
 
-I'm a software engineer who is passionate about making programming notes more accesible for Spanish people, creating projects, and building community. Some technologies I enjoy working with include *Java, SpringBoot, React (Javascript and typescript) and SQL*. I recently worked as *project manager* of a full-stack project.
+I'm a **software engineer** passionate about making programming more accessible, creating meaningful projects, and building community.
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Azure, AWS
+Currently, I'm working on **data analysis projects** with a growing focus on **bioinformatics**, where I’m combining my technical background with a strong interest in health and life sciences. My goal is to pursue a **PhD** in this field to deepen my research and contribute to the intersection of technology and biology.
+
+Previously, I’ve worked as a **project manager** for a full-stack application, leading both backend and frontend efforts.
+
+Some technologies I enjoy working with include **Java**, **Spring Boot**, **React** (JavaScript and TypeScript), **Python**, and **SQL**.
+
+---
+
+- 🔬 Focused on: Data-driven projects in **bioinformatics**
 - 💬 &nbsp;Ask me about anything related to Javascript/React/Python or Java/Spring
 - 👨‍💻 &nbsp;Read about my university notes at [wuolah](https://wuolah.com/profile/anavalero5?referral=anao52) or [studocu](https://www.studocu.com/es/user/31431423?origin=user-menu)
 - 📚 &nbsp;Read about my learing notes at [learningNotes](https://github.com/anavagi/LearningNotes) project

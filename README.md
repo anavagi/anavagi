@@ -18,7 +18,7 @@ Some technologies I enjoy working with include **Java**, **Spring Boot**, **Reac
 - 🔬 Focused on data-driven projects in **bioinformatics**
 - 💬 &nbsp;Ask me about anything related to Javascript/React/Python or Java/Spring
 - 👨‍💻 &nbsp;Read about my university notes at [wuolah](https://wuolah.com/profile/anavalero5?referral=anao52) or [studocu](https://www.studocu.com/es/user/31431423?origin=user-menu)
-- 📚 &nbsp;Read about my learing notes at [learningNotes](https://github.com/anavagi/LearningNotes) project
+- 📚 &nbsp;Read more about me at [myporfolio]([https://github.com/anavagi/LearningNotes](https://anavalerodev.netlify.app/](https://anavalerodev.netlify.app/))
 - ⚡ &nbsp;Fun fact: I :heart: reading and posting on my blog [Eldiariosablelotodo](https://eldiariosablelotodo.blogspot.com/)
 
 
